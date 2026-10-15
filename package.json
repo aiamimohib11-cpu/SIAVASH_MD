@@ -1,0 +1,17 @@
+{
+  "name": "siavash-md",
+  "version": "1.0.0",
+  "description": "SIAVASH_MD WhatsApp Business Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
